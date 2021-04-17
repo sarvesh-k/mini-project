@@ -29,7 +29,7 @@ Current Features
 * If he choose to find the cost effectiveness of energy efficient motor he can state what is the current motor with him and the application will give option from him to choose motor of higher efficieny with saving and payback period.
 * Third one is simple monthly house electricity bill calculator.It will get all the appliances used and their  wattage with average hours it is used to calculate the bill.
 ## SWOT ANALYSIS
-![SWOT-Sample](https://github.com/Himanshu257170/stepin_miniproject/blob/main/6_ImagesAndVideos/swot.png)
+![SWOT-Sample](https://github.com/sarvesh-k/mini-project/blob/main/264169_miniproject-main/6_ImagesAndVideos/swot.png)
 
 # 4W&#39;s and 1&#39;H
 

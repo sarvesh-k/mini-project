@@ -1,13 +1,6 @@
 # stepin_miniproject
 Miniproject on C language\
-![capture](https://github.com/Himanshu257170/stepin_miniproject/blob/main/6_ImagesAndVideos/welcome.png)
-
-[![C/C++ CI](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/c-build.yml/badge.svg)](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/c-build.yml)
-[![cppcheck-action](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/cppcheck.yml)
-[![Unit testing](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/unit_test.yml/badge.svg)](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/unit_test.yml)
-[![Valgrind](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/Valgrind.yml)
-[![Contribution Check - Git Inspector](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/git-inspector.yml)
-[![CI-Coverage](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/Himanshu257170/stepin_miniproject/actions/workflows/code-coverage.yml)
+I have made an calculator
 
 ## Folder Structure
 Folder                   | Description
@@ -25,7 +18,7 @@ Folder                   | Description
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-257170 | Himanshu S Kaushish   | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | NA        |Na  |2 Overall Test cases  | All Passed     
+257170 | Himanshu S Kaushish   | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | NA        |NA    |2 Test cases  | All Passed     
   
 
 ## Challenges Faced and How Was It Overcome

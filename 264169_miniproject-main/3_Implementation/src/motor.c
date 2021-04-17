@@ -1,9 +1,9 @@
 /**
  * @file motor.c
- * @author Himanshu
+ * @author SARVESH
  * @brief 
  * @version 0.1
- * @date 2021-04-13
+ * @date 2021-04-15
  * 
  * @copyright Copyright (c) 2021
  * 
